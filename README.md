@@ -3,7 +3,7 @@
 ## Overview
 The bypass allows placing orders through API **for symbols that are not available with the standard spot api**. For example, `BROCCOLI_USDT`
 
-*Code is currently only available in Typescript. Other languages available upon request.*
+*Code is currently only available in Typescript and C#. Other languages available upon request.*
 
 ### To get access or if you have any questions, contact at:
 
